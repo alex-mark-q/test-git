@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-My Project2
-=======
-My Project
->>>>>>> b742c55380bb4132d9c57bb4939a95811bdc5138
+Correct git update
